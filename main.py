@@ -26,7 +26,6 @@ def validarcpf(cpf):
 
     return finalizacao
 
-
 #exemplos
 print(validarcpf("0419930781"))
 print(validarcpf('69024351897778'))
